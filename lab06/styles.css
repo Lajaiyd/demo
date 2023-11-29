@@ -1,0 +1,26 @@
+/* Example CSS styles */
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    color: #0077B6;
+}
+
+ul {
+    list-style-type: none;
+}
+
+nav a {
+    text-decoration: none;
+    color: #333;
+}
+
+nav a:hover {
+    color: #0077B6;
+}
+
+.highlight-text {
+    font-weight: bold;
+    color: #F27121;
+}
