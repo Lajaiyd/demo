@@ -1,0 +1,29 @@
+/* general text formatting */
+
+h1, h2, h3, nav, footer {
+    font-family: Lobster, Cambria, "Times New Roman", serif;
+   }
+   body {
+      font-family: "Open Sans", Verdana, Arial, sans-serif;
+      font-size: 100%;
+      background-color: #E8EAF6;
+      size: 50%;
+   }
+table {
+    border: solid 1pt black;
+    
+    border-collapse: collapse;
+}
+tbody tr:nth-child(even) {
+    background-color: red;
+    color: orange
+}
+tbody td:hover {
+    background-color: #9e9e9e;
+}
+td {
+    border: solid 1pt black;
+}
+td hover {
+    background-color: gray;
+}
